@@ -15,6 +15,8 @@ This repository contains my Digital Literacy Project submission. It includes all
 - Task 1: Presentation
 - Task 2: Portfolio Setup
 - Task 3: Platforms and Activity Proof
+google form link :https://docs.google.com/forms/d/e/1FAIpQLSdKLNOiZxxs4UmdbinlhMSCZv42js4oLuKfDuIfDn_FLuhRpQ/viewform?usp=sharing&ouid=100462248020505119055
+spreadsheet link : https://docs.google.com/spreadsheets/d/1XtxjkuPha2g440zJPLrN8WHQrQrbVzYwJM8veGL-axk/edit?usp=sharing
 - Task 4: Email Etiquette
 - Task 5: Cybercrime Case Study
 
